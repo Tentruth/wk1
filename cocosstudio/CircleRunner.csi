@@ -1,0 +1,16 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="CircleRunner" Type="Plist" ID="fb649261-3b92-4100-a3c0-0d06288deb77" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="False" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="circle_1.png" />
+      <FilePathData Path="circle_2.png" />
+      <FilePathData Path="circle_3.png" />
+      <FilePathData Path="circle_4.png" />
+      <FilePathData Path="circle_5.png" />
+      <FilePathData Path="circle_6.png" />
+      <FilePathData Path="circle_7.png" />
+      <FilePathData Path="circle_8.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>
